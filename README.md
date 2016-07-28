@@ -1,6 +1,6 @@
 # Designing Good User Experience
 
-A collection of resources used at my DjangoCon tutorial called [Designing Good User Experience](https://2016.djangocon.us/schedule/presentation/56/).  
+A collection of resources used at my DjangoCon tutorial ["Designing Good User Experience"](https://2016.djangocon.us/schedule/presentation/56/).  
 [Slides are also available](https://speakerdeck.com/zanderle/designing-good-user-experience).
 
 ## NOTE:

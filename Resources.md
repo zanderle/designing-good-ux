@@ -10,6 +10,10 @@
 
 * [Need finding methods](http://www.designkit.org/methods)
 
+## Paper Prototyping
+
+* [A list apart article](http://alistapart.com/article/paperprototyping)
+
 ## Heuristic evaluation
 
 * [10 usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
