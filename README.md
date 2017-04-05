@@ -4,7 +4,7 @@ This is a developer's introduction to designing good user experience (UX). Writt
 
 ## NOTE:
 
-Initially I didn't think I'll also add details of the hands-on stuff we did at the tutorial. So that's still a work in progress and I need to write up some more, to make things clearer. I will add that in the following days.
+This "guide" is still very much a work-in-progress.
 
 ## This guide
 
