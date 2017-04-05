@@ -8,7 +8,10 @@ Initially I didn't think I'll also add details of the hands-on stuff we did at t
 
 ## This guide
 
-> TODO Write the contents/structure of this guide
+1. [Storyboards](./Storyboards.md)
+2. [Need Finding](./Need%20Finding.md)
+3. [Prototyping](./Prototyping.md)
+4. [Resources](./Resources.md)
 
 ## User experience for developers
 
