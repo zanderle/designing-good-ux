@@ -4,7 +4,7 @@
 
 * [Coursera course on UX](https://www.coursera.org/specializations/interaction-design)
 * [UX is not UI](http://www.uxisnotui.com/)
-* [Design talk](https://2016.djangocon.us/schedule/presentation/8/)
+* [Design for Non-Designers by Tracy Osborn](https://www.youtube.com/watch?v=-JQBfUnYxXA)
 
 ## Need Finding
 
